@@ -2,7 +2,7 @@
 multi session
 
 
-# install أit 
+# install Git 
 
 PowerShell
 ```
