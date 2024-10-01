@@ -2,7 +2,6 @@ Rdp windows
 multi session
 
 
-# install Git 
 
 PowerShell
 ```
