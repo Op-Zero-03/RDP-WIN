@@ -17,7 +17,7 @@ git clone https://github.com/Op-Zero-03/RDP-WIN.git "%USERPROFILE%\Desktop\RDP" 
 ```
 
 # PowerShell
-
+git installed
 ```
 git clone https://github.com/Op-Zero-03/RDP-WIN.git "$env:USERPROFILE\Desktop\RDP"; Set-Location "$env:USERPROFILE\Desktop\RDP"; .\Run_RDS_Setup.bat
 ```
